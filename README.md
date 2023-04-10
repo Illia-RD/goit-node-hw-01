@@ -1,6 +1,6 @@
 ### node index.js --action list
 
-![Get list](https://ibb.co/yq3VwJN)
+![Get list](https://ibb.co/yq3VwJN.png)
 
 ### node index.js --action get --id 5
 
